@@ -6,9 +6,9 @@
 
 - 🔭 I’m currently working on not yet
 
-- 🌱 I’m currently learning javascript, reactJS
+- 🌱 I’m currently learning Javascript, ReactJS, Vite, Tailwindcss, Typescript
 
-- 💬 Ask me about 
+- 💬 Ask me about Javascript, ReactJS, Slicing
 
 - 📫 How to reach me **alantanadi10@gmail.com**
 
