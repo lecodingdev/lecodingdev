@@ -1,12 +1,12 @@
 <h1 align="center"> <b> Hi, I'm Alan Tanadi </b> </h1>
-<h3 align="center"> a Software Engineer, specially Frontend Engineer </h3>
+<h3 align="center"> Software Engineer, specially Frontend Engineer </h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <p align="left"> <a href="https://www.lecodingdev.id/" target="blank"><img src="https://img.shields.io/twitter/follow/kyotrue?logo=twitter&style=for-the-badge" alt="kyotrue" /></a> </p>
 
 - 🔭 I’m currently working on not yet
 
-- 🌱 I’m currently learning Javascript, ReactJS, Vite, Tailwindcss, Typescript
+- 🌱 I’m currently learning Javascript, ReactJS, Vite, Tailwindcss, Boostrap, Typescript
 
 - 💬 Ask me about Javascript, ReactJS, Slicing
 
